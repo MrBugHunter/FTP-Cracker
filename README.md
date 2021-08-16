@@ -5,7 +5,7 @@ FTP Protocol Cracking
 https://www.python.org/ftp/python/3.9.6/python-3.9.6-amd64.exe
 ## You Need Colorama Library
     pip install colorama
-## Once You Have Done Hhat, You Can Run This Tool
+## Once You Have Done That, You Can Run This Tool
    # Windows
       python FTP-CRACKER.py
    # Linux
